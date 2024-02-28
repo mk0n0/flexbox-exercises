@@ -1,0 +1,9 @@
+
+.flex-container {
+}
+
+  .flex-container div {
+    background: #acf6ef;
+    border: 4px solid  #4b44f8;
+    height: 100px;
+  }
