@@ -14,7 +14,7 @@
   
   .menu {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     border: 1px solid #fff;  /* For debugging */
     width: 900px;
   }
